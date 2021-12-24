@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JAVA-HW-OOP2" />
         <module name="OOP2" />
+        <module name="OOP-2" />
       </profile>
     </annotationProcessing>
   </component>
